@@ -1,0 +1,1 @@
+Place the `faster_rcnn_inception_v2_coco_2018_01_28` folder extracted from the archive here.
